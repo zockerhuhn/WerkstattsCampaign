@@ -11,7 +11,7 @@
 - Folk religion of Humans
 - Polytheism
 	- believe in Sevlin, The Ruby Avatar
-- origin of [Jarburenese Faith](Nesey#Jarburenese) but split off about 620 years ago
+- origin of [Jarburenese Faith](Nesey#Jarburenese%20Faith) but split off about 620 years ago
 - 
 
 ## Map

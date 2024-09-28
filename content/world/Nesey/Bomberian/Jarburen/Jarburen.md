@@ -46,10 +46,11 @@ map without markers since leaflet doesn't work inside github pages: [[jarburen.p
 
 ##### Adventurer's Guild
 *There are no active quests currently*
-[[DMJarburen#Quests]]
+
+[DMQuests](DMJarburen#Quests)
 
 ## Black Shrine
 *Black Shrine contains mostly the homes of the many citizens of Jarburen. Most times there is nothing going on here but you might catch one of the rare occasions, who knows...*
 #### Forest Borough
-	claims to be an independant district but everyone knows it's just Black Shrine
+claims to be an independant district but everyone knows it's just Black Shrine
 
