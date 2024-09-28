@@ -12,7 +12,7 @@
 - Polytheism
 	- believe in Sevlin, The Ruby Avatar
 - origin of [Jarburenese Faith](Nesey#Jarburenese%20Faith) but split off about 620 years ago
-- 
+- common in [[Khanate of Bindulag]]
 
 ## Map
 
@@ -49,3 +49,5 @@ scale: 1
 darkMode: false  
 ```
 
+
+[Map without markers](Nesey%202024-09-27-19-58.png)

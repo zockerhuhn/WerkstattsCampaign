@@ -38,7 +38,7 @@ scale: 1
 darkMode: false  
 ```
 
-map without markers since leaflet doesn't work inside github pages: [[jarburen.png]]
+**map without markers since leaflet doesn't work inside github pages: [[jarburen.png]]**
 
 ## Locations
 ### Trade Town
