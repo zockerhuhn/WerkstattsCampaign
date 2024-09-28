@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "https://zockerhuhn.github.io/WerkstattsCampaign",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "DM"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",

@@ -6,11 +6,14 @@
 	- Believe in Supreme Deity Rench, the patient doom
 - originated from [Dulandir](Nesey#Dulandir)
 - religion of [Bomberian Theocracy](Bomberian)
+
 ### Dulandir
 - Folk religion of Humans
 - Polytheism
 	- believe in Sevlin, The Ruby Avatar
-- origin of [Jarburenese Faith](Nesey#Jarburenese Faith) but split off about 620 years ago
+- origin of [Jarburenese Faith](Nesey#Jarburenese) but split off about 620 years ago
+- 
+
 ## Map
 
 ```leaflet  

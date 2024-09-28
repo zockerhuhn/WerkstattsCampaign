@@ -1,5 +1,5 @@
 Capital of [[Bomberian]]
-Houses [Rench, The Patient Doom](Nesey#Jarburenese Faith)
+Houses [Rench, The Patient Doom](Nesey#Jarburenese%20Faith)
 
 
 
@@ -37,4 +37,19 @@ unit: Kilometer
 scale: 1  
 darkMode: false  
 ```
-map without markers [[jarburen.png]]
+
+map without markers since leaflet doesn't work inside github pages: [[jarburen.png]]
+
+## Locations
+### Trade Town
+*Trade Town is a pretty large district to the north of Jarburen housing almost every magic shop there is. No matter if it's spell components you searched for or shady wizards performing even shadier spells, you will find it here. In the heart of the district lies the [Adventurer's Guild](Jarburen#Adventurer's%20Guild), making it the perfect district for every adventurer. Even if you're not from the city it's easy to find a nice cozy room for the night above one of the many taverns.* 
+
+##### Adventurer's Guild
+*There are no active quests currently*
+[[DMJarburen#Quests]]
+
+## Black Shrine
+*Black Shrine contains mostly the homes of the many citizens of Jarburen. Most times there is nothing going on here but you might catch one of the rare occasions, who knows...*
+#### Forest Borough
+	claims to be an independant district but everyone knows it's just Black Shrine
+

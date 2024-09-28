@@ -1,2 +1,2 @@
-theocracy of [Jarburenese Faith](Nesey#Jarburenese Faith), Capital: [[Jarburen]]
-enemies: Khanate of Bindulag
+theocracy of [Jarburenese Faith](Nesey#Jarburenese%20Faith) , Capital: [[Jarburen]]
+Enemies: [Khanate of Bindulag](Khanate%20of%20Bindulag)
