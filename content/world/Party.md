@@ -1,3 +1,4 @@
+## Members
 #### [Fireheart](https://www.dndbeyond.com/characters/129788668)
 - Male Elf
 - Ranger 6
@@ -90,4 +91,5 @@
 	- there is so much roleplaying potential
 	- interesting flaw...
 
-
+## Quests
+[[Jarburen#Adventurer's Guild|Adventurer's Guild]] 

@@ -1,5 +1,5 @@
-Capital of [[Bomberian]]
-Houses [Rench, The Patient Doom](Nesey#Jarburenese%20Faith)
+Capital of [[Bomberia]]
+Houses [[Nesey#Jarburenese Faith|Rench, The Patient Doom]]
 
 
 
@@ -38,19 +38,43 @@ scale: 1
 darkMode: false  
 ```
 
-**map without markers since leaflet doesn't work inside github pages: [[jarburen.png]]**
+**map without markers since leaflet doesn't work inside GitHub pages: [[jarburen.png]]**
 
 ## Locations
 ### Trade Town
-*Trade Town is a pretty large district to the north of Jarburen housing almost every magic shop there is. No matter if it's spell components you searched for or shady wizards performing even shadier spells, you will find it here. In the heart of the district lies the [Adventurer's Guild](Jarburen#Adventurer's%20Guild), making it the perfect district for every adventurer. Even if you're not from the city it's easy to find a nice cozy room for the night above one of the many taverns.* 
+*Trade Town is a pretty large district to the north of Jarburen housing almost every magic shop there is. No matter if it's spell components you searched for or shady wizards performing even shadier spells, you will find it here. In the heart of the district lies the [[Jarburen#Adventurer's Guild|Adventurer's Guild]], making it the perfect district for every adventurer. Even if you're not from the city it's easy to find a nice cozy room for the night above one of the many taverns.* 
+*You might find [[NPCS#^c2bf18|Jasper Hornung]] here*
 
 ##### Adventurer's Guild
-*There are no active quests currently*
+*There are no active quests currently* ^ADVGUILD
+*You will very surely find [[NPCS#^211c20|Elijah Rhoads]] here*
 
 [DMQuests](DMJarburen#Quests)
 
-## Black Shrine
+### Black Shrine
 *Black Shrine contains mostly the homes of the many citizens of Jarburen. Most times there is nothing going on here but you might catch one of the rare occasions, who knows...*
 #### Forest Borough
-claims to be an independant district but everyone knows it's just Black Shrine
+claims to be an independent district but everyone knows it's just Black Shrine
 
+### Mansion
+*The [[Jarburen#Vyas|Vyas Family]] lives here. The building is not open to visitors and not much is known about it*
+
+### Castle
+*Until two years ago you could apply for an audience with [[Nesey#Jarburenese Faith|Rench]] here. Now no one is allowed to enter the castle*
+
+### Silk Knot
+*Military District with restricted access*
+*You might find [[NPCS#^d0ebc3|Aralia]] here*
+
+### Potters Steps
+*Restricted Zone, military only*
+
+### Pearl Gate
+*Pearl Gate is the first thing most visitors see when they enter the city. Marked by impressive statues and even more impressive soldiers guarding the city. Surely nothing can go wrong here...*
+
+## Party Knowledge
+
+### Vyas
+- powerful family leading [[Bomberia]]
+- hast contact to [[Nesey#Jarburenese Faith|Rench]]
+- lives in the [[Jarburen#Mansion|Mansion]] 
