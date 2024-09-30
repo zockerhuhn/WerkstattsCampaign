@@ -4,14 +4,14 @@
 - Organized religion without specific race
 - Polytheism
 	- Believe in Supreme Deity Rench, the patient doom
-- originated from [Dulandir](Nesey#Dulandir)
-- religion of [Bomberian Theocracy](Bomberia.md)
+- originated from [[Nesey#Dulandir|Dulandir]]
+- religion of [[Bomberia]]
 
 ### Dulandir
 - Folk religion of Humans
 - Polytheism
 	- believe in Sevlin, The Ruby Avatar
-- origin of [Jarburenese Faith](Nesey#Jarburenese%20Faith) but split off about 620 years ago
+- origin of [[Nesey#Jarburenese Faith|Jarburenese Faith]] but split off about 620 years ago
 - common in [[Bindulag]]
 
 ## Map
@@ -50,10 +50,10 @@ darkMode: false
 ```
 
 
-[Map without markers](Nesey%202024-09-27-19-58.png)
+[[Nesey 2024-09-27-19-58.png|Map without markers]] because leaflet doesn't work in GitHub pages
 
 ## History
 
 Not that much is known about what happend 620 years ago but Bomberia was created by a powerful family known as [[Jarburen#Vyas|The Vyas Family]]. They showed everyone a new god that ruled without oppression called [[Nesey#Jarburenese Faith|Rench]]. Since the Bindulag back then was suffering from a selfish leader, this was quickly accepted by over >800.000 people. Today these people are known as Bomberians living in their Theocracy. Bindulags leader died soon after the divide into these countries and their successor signed a peace treaty with the Vyas family.
-- [more Information about what happend to Bomberia afterwards](Bomberia.md#History)
-- [more Information about the family](Jarburen.md#Vyas)
+- [[Bomberia|more Information about what happend to Bomberia afterwards]]
+- [[Jarburen#Vyas|more Information about the family]]

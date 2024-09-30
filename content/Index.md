@@ -1,3 +1,2 @@
-[the party](Party)
-[the world](Nesey)
-
+[[Party|The Party]]
+[[Nesey|The world]]

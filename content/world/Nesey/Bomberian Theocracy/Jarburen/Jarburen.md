@@ -49,7 +49,7 @@ darkMode: false
 *There are no active quests currently* ^ADVGUILD
 *You will very surely find [[NPCS#^211c20|Elijah Rhoads]] here*
 
-[DMQuests](DMJarburen#Quests)
+[[DMJarburen#Quests]]
 
 ### Black Shrine
 *Black Shrine contains mostly the homes of the many citizens of Jarburen. Most times there is nothing going on here but you might catch one of the rare occasions, who knows...*

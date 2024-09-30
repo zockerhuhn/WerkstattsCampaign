@@ -4,7 +4,7 @@
 	- Strong Male Human around the age of 35
 	- always happy to craft new weapons for adventurer
 - Elijah Rhoads  ^211c20
-	- Works as helper in [[Jarburen#Adventurer's Guild]] 
+	- Works as helper in [[Jarburen#Adventurer's Guild]]
 	- Does not get paid enough for his job
 	- Around the age of 23
 - Jeana Barfield ^4043f7
