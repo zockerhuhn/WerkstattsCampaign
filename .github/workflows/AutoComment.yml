@@ -1,5 +1,8 @@
 on: pull_request
 
+permissions:
+  pull-requests: write
+
 jobs:
   example_comment_pr:
     runs-on: ubuntu-latest
