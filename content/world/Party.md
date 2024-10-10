@@ -88,7 +88,7 @@
 - passive perception: 13
 - ##### Notes:
 	- minimum roll on persuasion is 23, wth
-	- there is so much roleplaying potential
+	- there is so much role playing potential
 	- interesting flaw...
 
 ## Quests

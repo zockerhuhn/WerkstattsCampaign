@@ -5,13 +5,14 @@
 	- always happy to craft new weapons for adventurer
 - Elijah Rhoads  ^211c20
 	- Works as helper in [[Jarburen#Adventurer's Guild]]
-	- Does not get paid enough for his job
-	- Around the age of 23
+	- Only does job because it pays well
+	- Male Elf around the age of 23
+	- Favorite color is "blood red"
 - Jeana Barfield ^4043f7
 	- Works in [[Jarburen#Trainings Arena]]
 	- Missing an Arm
 	- Loves her job and to fight
-	- Nobody knows how old she is but depending on the source it's between 25-43
+	- Female Human, Nobody knows how old she is but depending on the source it's between 25-43
 - Aralia ^d0ebc3
 	- Young Female Tiefling
 	- Military General, most times found in [[Jarburen#Silk Knot]]
@@ -19,3 +20,4 @@
 	- Likes ████ and ████
 	- Very lively
 	- good friends with [[NPCS#^4043f7|Jeana Barfield]]
+	- Favorite color is "something between pink and blue I think"
