@@ -2,7 +2,7 @@
 - Food that had a long expiration date was bought a lot at stores
 - Bought newspaper with article about Bandit-Crisis
 - Noticed a lot of blacksmiths are closed for a longer period of time for various reasons
-- Party decided their party name is \<something I already forgot>[^1]
+- Party decided their party name is "Rote Krokusse"
 - While investigating [[Jarburen#Bandit-Crisis|Bandit-Crisis]], after talking to [[NPCS#^d0ebc3|Aralia]] in [[Jarburen#Silk Knot|Silk Knot]], on their way back, party heard alarm bells ringing and got quickly escorted in the direction of the bridge to leave [[Jarburen#Silk Knot|Silk Knot]]
 - Blu's detect magic spell revealed a lot of abjuration magic inside of [[Jarburen#Silk Knot|Silk Knot]]
 
